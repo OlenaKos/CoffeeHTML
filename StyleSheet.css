@@ -1,0 +1,26 @@
+﻿body {
+    background-color: #FFFFCC;
+    background: linear-gradient(to bottom, #FFFFCC, #FFEFDB);
+    text-align: justify;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    width: 80%;
+    margin-left: 2%;
+    color: #330000;
+}
+.maintext {
+    margin-bottom: 2%;
+    margin-top:2%;
+}
+.maintext-cursive {
+    margin-bottom: 2%;
+    margin-top: 2%;
+    font-style:italic;
+}
+.smallheader {
+    margin-top: 1%;
+    font-weight:bold;
+
+}
+h1, h3 {
+
+}
